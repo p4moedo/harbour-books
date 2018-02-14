@@ -157,12 +157,12 @@
     <message id="harbour-books-settings-page-orientation-portrait">
         <source>Portrait</source>
         <extracomment>Combo box value for portrait orientation</extracomment>
-        <translation>Horizontal</translation>
+        <translation>Vertical</translation>
     </message>
     <message id="harbour-books-settings-page-orientation-landscape">
         <source>Landscape</source>
         <extracomment>Combo box value for landscape orientation</extracomment>
-        <translation>Vertical</translation>
+        <translation>Horizontal</translation>
     </message>
     <message id="harbour-books-settings-page-media-keys-section_header">
         <source>Media keys</source>
